@@ -1,5 +1,8 @@
 Dokumentasi Kelompok 5
 - Muhammad ayatullah (220907502093)
+- Amriadi (220907502083)
+- atiqah fakhirah muzakkir (220907502060)
+- muh iqbal (2209075020)
 ![Screenshot 2024-11-30 125051](https://github.com/user-attachments/assets/caabf7c5-e30c-4cb2-93cc-4251485b6384)
 ![Screenshot 2024-11-30 125027](https://github.com/user-attachments/assets/989f7e99-edee-4fbe-8f6c-7877b7d55cfb)
 ![Screenshot 2024-11-30 125439](https://github.com/user-attachments/assets/0fe49d7d-8a50-482c-b26e-cc2daa654f3d)
